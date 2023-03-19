@@ -1,0 +1,34 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/mod_13_updown_counter/sim
+vmod_13_updown_counter
+!s110 1679168440
+!i10b 1
+!s100 5kN[l32Nn[]_N_YhzXGJ[1
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+I@jlVY;[nd;__]m8KkFnJf0
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1679168324
+8C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/mod_13_updown_counter/rtl/mod_13_updown_counter.v
+FC:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/mod_13_updown_counter/rtl/mod_13_updown_counter.v
+!i122 5
+L0 1 24
+OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1679168440.000000
+!s107 C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/mod_13_updown_counter/rtl/mod_13_updown_counter.v|
+!s90 -reportprogress|300|-work|work|C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/mod_13_updown_counter/rtl/mod_13_updown_counter.v|
+!i113 1
+o-work work
+tCvgOpt 0
