@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/encoder_8to3/sim
+vencoder_8to3
+!s110 1679151959
+!i10b 1
+!s100 Sjlg<;G4_BQL]LNV]P[gl3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IXZ>;IVC;1CgoFYnU:hW2h3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1679151935
+8C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/encoder_8to3/rtl/encoder_8to3.v
+FC:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/encoder_8to3/rtl/encoder_8to3.v
+!i122 3
+L0 1 22
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1679151959.000000
+!s107 C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/encoder_8to3/rtl/encoder_8to3.v|
+!s90 -reportprogress|300|-work|work|C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/encoder_8to3/rtl/encoder_8to3.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vencoder_8to3_tb
+!s110 1679151816
+!i10b 1
+!s100 6_mYgI4z^C:OdPDKSiIzh3
+R1
+IRJ[XiG:kn>Z>5^9^Wi_]k2
+R2
+R0
+w1679151805
+8C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/encoder_8to3/tb/encoder_8to3_tb.v
+FC:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/encoder_8to3/tb/encoder_8to3_tb.v
+!i122 2
+L0 1 28
+R3
+r1
+!s85 0
+31
+!s108 1679151816.000000
+!s107 C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/encoder_8to3/tb/encoder_8to3_tb.v|
+!s90 -reportprogress|300|-work|work|C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/encoder_8to3/tb/encoder_8to3_tb.v|
+!i113 1
+R4
+R5
