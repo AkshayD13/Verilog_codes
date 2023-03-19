@@ -1,0 +1,34 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/dual_port_ram/sim
+vdual_port_sync_ram
+!s110 1679234669
+!i10b 1
+!s100 fl6Xo>PbfK2g;?YfkeKY[2
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+IzF2ekeY=3;dgoY<1EWzmC1
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1679234650
+8C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/dual_port_ram/rtl/dual_port_sync_ram.v
+FC:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/dual_port_ram/rtl/dual_port_sync_ram.v
+!i122 2
+L0 1 33
+OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1679234669.000000
+!s107 C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/dual_port_ram/rtl/dual_port_sync_ram.v|
+!s90 -reportprogress|300|-work|work|C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/dual_port_ram/rtl/dual_port_sync_ram.v|
+!i113 1
+o-work work
+tCvgOpt 0
