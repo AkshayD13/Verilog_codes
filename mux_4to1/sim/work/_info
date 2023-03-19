@@ -1,0 +1,103 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/mux_4to1/sim
+vmux_4to1_case
+Z1 !s110 1679150543
+!i10b 1
+!s100 =5IEODJnD`cnbjm?jaJG02
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I`FDG`MfeW78[i=Bz9kBD50
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1679150533
+Z5 8C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/mux_4to1/rtl/mux_4to1.v
+Z6 FC:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/mux_4to1/rtl/mux_4to1.v
+!i122 6
+L0 1 11
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1679150543.000000
+Z9 !s107 C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/mux_4to1/rtl/mux_4to1.v|
+Z10 !s90 -reportprogress|300|-work|work|C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/mux_4to1/rtl/mux_4to1.v|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vmux_4to1_if
+R1
+!i10b 1
+!s100 Uc@=BeR_H^:KH2D<PRM=e0
+R2
+I]Kecn;f9hceJdUfGZI4Z@3
+R3
+R0
+R4
+R5
+R6
+!i122 6
+L0 13 13
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vmux_4to1_tb
+!s110 1679150614
+!i10b 1
+!s100 kUMY0632OldE:mM4V1Ae;0
+R2
+Ia5N8[DPRS8@E0?;o25ZJ=1
+R3
+R0
+w1679150601
+8C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/mux_4to1/tb/mux_4to1_tb.v
+FC:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/mux_4to1/tb/mux_4to1_tb.v
+!i122 7
+L0 1 36
+R7
+r1
+!s85 0
+31
+!s108 1679150614.000000
+!s107 C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/mux_4to1/tb/mux_4to1_tb.v|
+!s90 -reportprogress|300|-work|work|C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/mux_4to1/tb/mux_4to1_tb.v|
+!i113 1
+R11
+R12
+vmux_4to1_ternary
+R1
+!i10b 1
+!s100 ;DJ;zQTl>096o0U1:?6`U3
+R2
+ILGYW0bO6fz:JAIMH7[dSG2
+R3
+R0
+R4
+R5
+R6
+!i122 6
+L0 27 3
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
