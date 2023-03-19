@@ -1,0 +1,35 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/fifo_synchronous/sim
+vFIFO_synchronous
+!s110 1679235116
+!i10b 1
+!s100 ^<g^lWR^^^QUPCe0@a84i2
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+I2ENQ1Ui7=IkLQ=e=T]fR@1
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1679235077
+8C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/fifo_synchronous/rtl/fifo_synchronous.v
+FC:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/fifo_synchronous/rtl/fifo_synchronous.v
+!i122 0
+L0 1 63
+OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1679235116.000000
+!s107 C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/fifo_synchronous/rtl/fifo_synchronous.v|
+!s90 -reportprogress|300|-work|work|C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/fifo_synchronous/rtl/fifo_synchronous.v|
+!i113 1
+o-work work
+tCvgOpt 0
+n@f@i@f@o_synchronous
