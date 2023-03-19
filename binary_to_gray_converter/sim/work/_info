@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/binary_to_gray_converter/sim
+vbinary_to_gray_converter_8bit
+!s110 1679167096
+!i10b 1
+!s100 fMXg6L[Nhkeg>?i[:[b8d2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+InZ>Kiz:b_cZ=AL68B=X?i3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1679167035
+8C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/binary_to_gray_converter/rtl/binary_to_gray_converter_8bit.v
+FC:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/binary_to_gray_converter/rtl/binary_to_gray_converter_8bit.v
+!i122 2
+L0 1 10
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1679167095.000000
+!s107 C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/binary_to_gray_converter/rtl/binary_to_gray_converter_8bit.v|
+!s90 -reportprogress|300|-work|work|C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/binary_to_gray_converter/rtl/binary_to_gray_converter_8bit.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vbinary_to_gray_converter_8bit_tb
+!s110 1679167430
+!i10b 1
+!s100 F=>Pgk32zbzSTdenZgz`Q3
+R1
+ISbWVWYk@1ojL]iY_CP>RL3
+R2
+R0
+w1679167420
+8C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/binary_to_gray_converter/tb/binary_to_gray_converter_8bit_tb.v
+FC:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/binary_to_gray_converter/tb/binary_to_gray_converter_8bit_tb.v
+!i122 5
+L0 1 14
+R3
+r1
+!s85 0
+31
+!s108 1679167430.000000
+!s107 C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/binary_to_gray_converter/tb/binary_to_gray_converter_8bit_tb.v|
+!s90 -reportprogress|300|-work|work|C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/binary_to_gray_converter/tb/binary_to_gray_converter_8bit_tb.v|
+!i113 1
+R4
+R5
