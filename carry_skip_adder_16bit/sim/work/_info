@@ -1,0 +1,126 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/carry_skip_adder_16bit/sim
+vcarry_skip_adder_16bit
+Z1 !s110 1679161972
+!i10b 1
+!s100 eVCS8c_BoRk0Y__oj>[La0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I24K]agi=3cL[DTESXNcbU3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1679161947
+Z5 8C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/carry_skip_adder_16bit/rtl/carry_skip_adder_16bit.v
+Z6 FC:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/carry_skip_adder_16bit/rtl/carry_skip_adder_16bit.v
+!i122 8
+L0 14 29
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1679161972.000000
+Z9 !s107 C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/carry_skip_adder_16bit/rtl/carry_skip_adder_16bit.v|
+Z10 !s90 -reportprogress|300|-work|work|C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/carry_skip_adder_16bit/rtl/carry_skip_adder_16bit.v|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vcarry_skip_adder_16bit_tb
+!s110 1679162091
+!i10b 1
+!s100 4eA77Q9kS?0m[`1^TCdao2
+R2
+Ig:b^m?8kA3azMK@0D8L@b3
+R3
+R0
+w1679162079
+Z13 8C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/carry_skip_adder_16bit/tb/carry_skip_adder_tb.v
+Z14 FC:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/carry_skip_adder_16bit/tb/carry_skip_adder_tb.v
+!i122 9
+L0 1 22
+R7
+r1
+!s85 0
+31
+!s108 1679162091.000000
+Z15 !s107 C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/carry_skip_adder_16bit/tb/carry_skip_adder_tb.v|
+Z16 !s90 -reportprogress|300|-work|work|C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/carry_skip_adder_16bit/tb/carry_skip_adder_tb.v|
+!i113 1
+R11
+R12
+vcarry_skip_adder_tb
+!s110 1679161525
+!i10b 1
+!s100 N46IRHTS74hmfYSdB4fm[1
+R2
+I]Pg:3_`_:^nLKkDlb5`J:1
+R3
+R0
+w1679161519
+R13
+R14
+!i122 3
+L0 1 21
+R7
+r1
+!s85 0
+31
+!s108 1679161525.000000
+R15
+R16
+!i113 1
+R11
+R12
+vfull_adder
+R1
+!i10b 1
+!s100 ;az@7E5eAafe?2L[lYhHN3
+R2
+IboMhh_NaD5U_?Xm:GV3G_1
+R3
+R0
+R4
+R5
+R6
+!i122 8
+L0 1 4
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vrca_4bit
+R1
+!i10b 1
+!s100 a[Ff[bPOOaM[jd@lBOD<:3
+R2
+IUP_`d`Wcc7BTjZRF31l2i0
+R3
+R0
+R4
+R5
+R6
+!i122 8
+L0 6 7
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
