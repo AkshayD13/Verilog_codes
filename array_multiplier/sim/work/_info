@@ -1,0 +1,103 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/array_multiplier/sim
+varray_multiplier_dataflow
+Z1 !s110 1679278177
+!i10b 1
+!s100 LUz7=1_>XLZTYeTYBQHzI0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IGc=QVb44K[nT[X9dR5i[i3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1679277729
+Z5 8C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/array_multiplier/rtl/array_multiplier_4bit.v
+Z6 FC:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/array_multiplier/rtl/array_multiplier_4bit.v
+!i122 0
+L0 43 47
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1679278176.000000
+Z9 !s107 C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/array_multiplier/rtl/array_multiplier_4bit.v|
+Z10 !s90 -reportprogress|300|-work|work|C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/array_multiplier/rtl/array_multiplier_4bit.v|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+varray_multiplier_structural
+R1
+!i10b 1
+!s100 l65S<lYj;GZm=C^gZAZ0R2
+R2
+IbU4Z5UCRF;_zETIFZ_]fZ2
+R3
+R0
+R4
+R5
+R6
+!i122 0
+L0 6 36
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vfull_adder
+R1
+!i10b 1
+!s100 1fOYe;[26CFh3M3NWI5Bf2
+R2
+I^M:Ni8]FS_AXJ_STSQPFn1
+R3
+R0
+R4
+R5
+R6
+!i122 0
+L0 1 4
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vmultiplier_tb
+!s110 1679278489
+!i10b 1
+!s100 ozRz]=LYNY63da2bzbIST1
+R2
+Ic2ozT]j8P=Mk_P_BBjX2f3
+R3
+R0
+w1679278479
+8C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/array_multiplier/tb/array_multiplier_tb.v
+FC:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/array_multiplier/tb/array_multiplier_tb.v
+!i122 3
+L0 1 25
+R7
+r1
+!s85 0
+31
+!s108 1679278489.000000
+!s107 C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/array_multiplier/tb/array_multiplier_tb.v|
+!s90 -reportprogress|300|-work|work|C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/array_multiplier/tb/array_multiplier_tb.v|
+!i113 1
+R11
+R12
