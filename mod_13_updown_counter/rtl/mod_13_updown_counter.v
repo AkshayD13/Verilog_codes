@@ -9,15 +9,17 @@ begin
 	begin
 		if(x==0)
 		begin
-			count<=count+1;
 			if(count==12)
 				count<=0;
+			else
+				count<=count+1;
 		end
 		else if(x==1)
 		begin
-			count<=count-1;
 			if(count==0)
 				count<=12;
+			else
+				count<=count-1;
 		end
 	end
 end
