@@ -1,0 +1,20 @@
+module mod_13_updown_counter_tb;
+reg x,clk,rst;
+wire [3:0]count;
+mod_13_updown_counter dut(.x(x),.clk(clk),.rst(rst),.count(count));
+initial
+begin
+	clk=0;
+	rst=1;
+	x=0;
+	#20 rst=0;
+	#220 x=1;
+	#220 $stop;
+	
+end
+always #5 clk=~clk;
+always
+begin
+	$montor($time,"x=%b,rst=%b,count=%b",x,rst,count);
+end
+endmodule
