@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/fsm_111010/sim
+vfsm_111010_case
+!s110 1679682468
+!i10b 1
+!s100 WbbClU2obWG2i;`c_PWUn2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I94GF_ci]oj]dm3OQPOLI=3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1679681955
+8C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/fsm_111010/rtl/fsm_111010_case.v
+FC:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/fsm_111010/rtl/fsm_111010_case.v
+!i122 15
+L0 1 81
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1679682468.000000
+!s107 C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/fsm_111010/rtl/fsm_111010_case.v|
+!s90 -reportprogress|300|-work|work|C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/fsm_111010/rtl/fsm_111010_case.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vfsm_111010_case_tb
+!s110 1679683065
+!i10b 1
+!s100 LI^LJGSF:Wh`K37P9RK;P0
+R1
+I@K[hH`6AZN@IEmCDI`A4`0
+R2
+R0
+w1679683038
+8C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/fsm_111010/tb/fsm_111010_case_tb.v
+FC:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/fsm_111010/tb/fsm_111010_case_tb.v
+!i122 19
+L0 1 33
+R3
+r1
+!s85 0
+31
+!s108 1679683065.000000
+!s107 C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/fsm_111010/tb/fsm_111010_case_tb.v|
+!s90 -reportprogress|300|-work|work|C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/fsm_111010/tb/fsm_111010_case_tb.v|
+!i113 1
+R4
+R5
