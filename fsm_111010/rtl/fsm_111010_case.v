@@ -10,7 +10,7 @@ always @(posedge clk)
 begin
 	if(rst)
 	begin
-		{p_state,n_state}<=0;
+		{p_state}<=0;
 	end
 	else
 	begin
@@ -19,64 +19,65 @@ begin
 end
 always @(p_state,x)
 begin
-	y=0;
+	y<=0;
 	case(p_state)
 	s0:
 	if(x==0)
 	begin
-		n_state=s0;
+		n_state<=s0;
 	end
 	else
 	begin
-		n_state=s1;
+		n_state<=s1;
 	end
 	s1:
 	if(x==0)
 	begin
-		n_state=s0;
+		n_state<=s0;
 	end
 	else
 	begin
-		n_state=s2;
+		n_state<=s2;
 	end
 	s2:
 	if(x==0)
 	begin
-		n_state=s0;
+		n_state<=s0;
 	end
 	else
 	begin
-		n_state=s3;
+		n_state<=s3;
 	end
 	s3:
 	if(x==0)
 	begin
-		n_state=s4;
+		n_state<=s4;
 	end
 	else
 	begin
-		n_state=s3;
+		n_state<=s3;
 	end
 	s4:
 	if(x==0)
 	begin
-		n_state=s0;
+		n_state<=s0;
 	end
 	else
 	begin
-		n_state=s5;
+		n_state<=s5;
 	end
 	s5:
 	if(x==0)
 	begin
-		n_state=s0;
+		n_state<=s0;
 		y<=1;
 	end
 	else
 	begin
-		n_state=s2;
+		n_state<=s2;
 	end
+	default:
+		n_state<=s0;
 	endcase
 end
 endmodule
-
