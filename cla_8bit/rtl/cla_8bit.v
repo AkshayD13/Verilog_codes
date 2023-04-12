@@ -1,6 +1,6 @@
 module cla_8bit(input [7:0]a,b,input cin,output [7:0]s,output cout);
-reg [7:0]g,p;
-reg [7:1]c;
+wire [7:0]g,p;
+wire [7:1]c;
 assign g[0]=a[0]&b[0];
 assign g[1]=a[1]&b[1];
 assign g[2]=a[2]&b[2];
