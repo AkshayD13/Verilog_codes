@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/cla_4bit/sim
+vcla_4bit
+!s110 1680031724
+!i10b 1
+!s100 iia3anMnPJYSnOacQhDLf2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I;SaG`2l0QaW=j2Uf;2R@Y3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1679164414
+8C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/cla_4bit/rtl/cla_4bit.v
+FC:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/cla_4bit/rtl/cla_4bit.v
+!i122 6
+L0 1 20
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1680031724.000000
+!s107 C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/cla_4bit/rtl/cla_4bit.v|
+!s90 -reportprogress|300|-work|work|C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/cla_4bit/rtl/cla_4bit.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vcla_4bit_tb
+!s110 1680053161
+!i10b 1
+!s100 ZDAelSe7;AHCQ8N7lk@i[1
+R1
+IN>FVcm0nlKG=A7^0k?BPo2
+R2
+R0
+w1680053147
+8C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/cla_4bit/tb/cla_4bit_tb.v
+FC:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/cla_4bit/tb/cla_4bit_tb.v
+!i122 12
+L0 2 38
+R3
+r1
+!s85 0
+31
+!s108 1680053161.000000
+!s107 C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/cla_4bit/tb/cla_4bit_tb.v|
+!s90 -reportprogress|300|-work|work|C:/Users/dande/OneDrive/Documents/ModelSim practice/Verilog_practice/cla_4bit/tb/cla_4bit_tb.v|
+!i113 1
+R4
+R5
