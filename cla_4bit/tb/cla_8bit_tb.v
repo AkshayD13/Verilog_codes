@@ -1,19 +1,19 @@
-module cla_4bit_tb;
-reg [3:0]a,b;
+module cla_8bit_tb;
+reg [7:0]a,b;
 reg cin;
-wire [3:0]s;
+wire [7:0]s;
 wire cout;
 reg test_complete,error_flag;
-reg [3:0]sum_expected;
+reg [7:0]sum_expected;
 reg cout_expected;
-cla_4bit dut(.a(a),.b(b),.cin(cin),.s(s),.cout(cout));
+cla_8bit dut(.a(a),.b(b),.cin(cin),.s(s),.cout(cout));
 initial
 begin
-	repeat(80)
+	repeat(400)
 	begin
-	#10 a=$random % 16;
-	b=$random % 16;
-	cin=$random % 2;
+	#10 a=$random;
+	b=$random;
+	cin=$random;
 	end
 	test_complete=1;
 end
