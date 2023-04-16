@@ -1,6 +1,6 @@
 module FIFO_synchronous(input [7:0]data_in, input clk,rst,rd,wr,output reg empty,full,output reg [3:0] FIFO_count,output reg [7:0]data_out);
 reg [7:0]FIFO_memory[7:0];				//8 memories each of size 8-bits declared
-reg [2:0]rd_ptr,wr_ptr;					//3 bit pointer declared as data_in and data_out is 8 bit. 4-bit FIFO_count is taken in order to flag full, as it's not possible if FIFO_count can count till only 7
+	reg [2:0]rd_ptr,wr_ptr;					//3 bit pointer declared as 8 memory locations are present. 4-bit FIFO_count is taken in order to flag full, as it's not possible if 3 bit FIFO_count can count till only 7
 always @(posedge clk)
 begin:write						//write operation while block
 	if(wr && !full)
